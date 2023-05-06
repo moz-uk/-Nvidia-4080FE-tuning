@@ -10,5 +10,9 @@ the location that afterburner stores profile settings is: FIXME
 
 ## profile5 stable
 06may2023
-
 ![image](https://user-images.githubusercontent.com/64855865/236621283-26e3b1e1-6b67-4857-95c7-101126b55c1b.png)
+
+## profile4 experimental
+06may2023
+![image](https://user-images.githubusercontent.com/64855865/236621317-7df34a07-1a70-4246-b23b-59dad9b991aa.png)
+
